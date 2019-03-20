@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lettera Aperta</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Lettera Aperta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lettera Aperta</title>
+      <link>http://example.org/lettera/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/lettera/</guid>
+      <description>Pisa, 15 Marzo 2019 Alla cortese attenzione di:
+Dr. Paolo Maria Mancarella, Magnifico Rettore Dr.ssa Antonella Del Corso, Prorettrice agli studenti
+Noi, Studenti dell’Università di Pisa,
+Appresa la volontà dell&amp;rsquo;università di finanziare e ospitare l&amp;rsquo;evento organizzato dal gruppo studentesco MUT in cui figura tra gli invitati il ministro dell’interno Matteo Salvini
+Temiamo che:
+Il ministro dell&amp;rsquo;interno Salvini possa fare propaganda politica durante un evento finanziato e ospitato dall&amp;rsquo;università nel periodo a ridosso delle elezioni europee.</description>
+    </item>
+    
+    <item>
+      <title>Ulteriori informazioni</title>
+      <link>http://example.org/count/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/count/</guid>
+      <description>Abbiamo già raccolto più di 600 sottoscrizioni.
+Questo appello nasce per essere condiviso trasversalmente, non siamo legati a nessun gruppo politico studentesco.</description>
+    </item>
+    
+  </channel>
+</rss>
